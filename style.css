@@ -48,6 +48,10 @@ main p {
     font-size: 1.8rem;
 }
 
+.form {
+    margin: 0 2rem;
+}
+
 .trial {
     border-radius: 1rem;
     padding: 2.4rem;
